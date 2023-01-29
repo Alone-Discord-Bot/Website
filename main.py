@@ -1,7 +1,6 @@
 import typing
 from quart import Quart, render_template, url_for, send_from_directory, redirect
 from quart_discord import DiscordOAuth2Session, requires_authorization, Unauthorized
-from discord.ext.ipc import Client
 from dotenv import load_dotenv
 import os
 

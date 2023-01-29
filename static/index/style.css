@@ -1,0 +1,32 @@
+header {
+  display: flex;
+  align-items: center;
+  color: #ffffff;
+  padding: 10px 20px;
+}
+
+#logo {
+  font-size: 30px;
+  color: #ffffff;
+  text-decoration: none;
+  margin-right: auto;
+}
+
+nav {
+  display: flex;
+  align-items: center;
+}
+
+nav a {
+  color: #ffffff;
+  text-decoration: none;
+  padding: 0 10px;
+}
+
+#login {
+  background-color: #7289da;
+  color: #ffffff;
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-align: center;
+}

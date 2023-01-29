@@ -1,0 +1,4 @@
+quart
+discord.py
+python-dotenv
+Quart-Discord
